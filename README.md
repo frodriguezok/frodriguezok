@@ -5,14 +5,13 @@
 Soy estudiante de Licencitura en Informática💻 en la Universidad Nacional de Hurlingham.
 
 ## Tecnologias
-![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/5369888a-4091-4ec1-96c9-87fb8c65009a)
-![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/9bf5843d-6e43-47a2-aa9d-bb554f6b4288)
-![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/fcb81f85-4026-40c0-b804-733e0d1c7be8)
-![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/f84453b5-625b-4c1c-8097-091c5b30f4b0)
-
-![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/45179b14-afcd-4a38-b679-68ef84df1051) 
-![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
-![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
+![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/43680366-ea63-4681-8f4f-0e7355dd9441) 
+![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/7219b839-322f-49d1-b198-cdea50db8ff6) 
+![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/1a36ccfb-8290-476d-9392-9dc5b5714ae3) 
+![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/9972f150-95c1-49cf-90d5-b2228cd9b00e)
+![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/dfd55cdd-23c1-4988-8c15-4805e23fecb7)
+![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/372b0143-b1e4-4fed-b9e4-43cf69b34367)
+![image](https://github.com/frodriguezok/frodriguezok/assets/64555901/908722d0-ca06-4d08-a4f5-df341e0ab8ad)
 
 
 
